@@ -1,6 +1,6 @@
 package com.example.projectboard.controller;
 
-import com.example.projectboard.config.SecurityConfig;
+import com.example.projectboard.domain.config.SecurityConfig;
 import com.example.projectboard.service.ArticleService;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
